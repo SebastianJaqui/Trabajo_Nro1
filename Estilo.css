@@ -2,13 +2,42 @@
 
 #Articulo { 
     background-color: rgba(255, 17, 0, 0.87);
+    padding: 10px;
+    
 }
 
 #footer { 
     background-color: blueviolet;
+    margin: 45px;
+}
+
+#Todo {
+    padding: 10px;
+    margin: 35px;
 }
 
 /* Modificando las clases*/
+
+.foto {
+    background-color: brown;
+    
+
+}
+
+.noticia {
+    background-color: brown;
+    padding: 60px;
+
+}
+
+.Contenedor {
+    display: flex;
+}
+
+.Centrartitulo {
+
+    text-align: center;
+}
 
 
 
@@ -16,7 +45,8 @@
 
 Table, tr, td, th { 
     background-color: darkorange;
-    border: Solid brown 1px;
+    border: groove brown 1px;
+    padding: 20px;
 }
 
 body { 
