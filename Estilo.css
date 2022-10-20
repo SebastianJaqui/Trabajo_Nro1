@@ -1,13 +1,13 @@
 /* Modificando Ids*/
 
 #Articulo { 
-    background-color: rgba(255, 17, 0, 0.87);
+    background-color: rgba(160, 228, 133, 0.87);
     padding: 10px;
     
 }
 
 #footer { 
-    background-color: blueviolet;
+    background-color: rgb(216, 182, 255);
     margin: 45px;
 }
 
@@ -19,13 +19,13 @@
 /* Modificando las clases*/
 
 .foto {
-    background-color: brown;
+    background-color: rgba(241, 161, 158, 0.904);
     
 
 }
 
 .noticia {
-    background-color: brown;
+    background-color: rgba(241, 161, 158, 0.904);
     padding: 60px;
 
 }
@@ -44,11 +44,11 @@
 /* Modificando los tags */
 
 Table, tr, td, th { 
-    background-color: darkorange;
-    border: groove brown 1px;
+    background-color: rgb(177, 229, 245);
+    border: groove rgb(216, 9, 9) 1px;
     padding: 20px;
 }
 
 body { 
-    background-color: chartreuse;
+    background-color: beige;
 }
