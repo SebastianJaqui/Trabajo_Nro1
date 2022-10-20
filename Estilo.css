@@ -16,6 +16,12 @@
     margin: 35px;
 }
 
+#Comprarcelular {
+
+    margin: 40px;
+    padding: 10px;
+}
+
 /* Modificando las clases*/
 
 .foto {
@@ -39,7 +45,21 @@
     text-align: center;
 }
 
+.contenedor2 {
 
+    display: flex;
+}
+
+.resultados {
+
+    padding: 20px;
+}
+
+.fotoresultado {
+
+    padding: 15px;
+
+}
 
 /* Modificando los tags */
 
